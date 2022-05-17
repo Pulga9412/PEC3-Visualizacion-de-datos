@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/pralabhpoudel/alcohol-consumption-by-country?resource=download&select=alcohol-consumption-vs-gdp-per-capita.csv
